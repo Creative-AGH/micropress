@@ -1,0 +1,9 @@
+{"stepper_drivers_settings":
+    {"PUL": 17, "DIR": 25, "PUL_2": 23, "DIR_2": 24, "pulse_freq": 666, "test_pulse_freq": 300},
+"modbus_amplifier_settings":
+    {"usb_device": "/dev/ttyUSB0", "baudrate": 115200, "stopbits": 1, "read_freq": 300},
+"spi_scale_counter_settings":
+    {"CLK": 1000000, "CS_line": 0, "byte_mode": 4, "read_freq": 300},
+"general_settings": 
+    {"max_force" : 180, "starting_height" : 6000}
+}
