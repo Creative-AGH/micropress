@@ -1,0 +1,3 @@
+[submodule "LS7366R_Raspberry_Pi"]
+	path = LS7366R_Raspberry_Pi
+	url = https://github.com/corncobb/LS3766R-Raspberry-Pi
